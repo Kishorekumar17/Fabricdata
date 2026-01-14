@@ -1,4 +1,4 @@
-order_id,order_date,customer_id,customer_segment,country,city,product_category,product_name,quantity,unit_price,discount_applied,tax_amount,total_amount,payment_method,order_status,updated_at
+order_id,order_date,customer_id,customer_segment,country,city,product_category,product_name,quantity,unit_price,discount_applied,tax_amount,total_amount,payment_method,order_status,updated_at,new_customer_segment
 1,10-01-2023,C6209,Corporate,India,Mumbai,Electronics,Headphones,1,2486,150,248.6,2584.6,Cash,Returned,10-01-2023
 2,05-04-2021,C2334,Corporate,India,Mumbai,Fashion,Jeans,3,1818,100,545.4,5899.4,Cash,Cancelled,05-04-2021
 3,04-02-2025,C4408,Consumer,Germany,Munich,Home Appliances,Washing Machine,2,1862,100,372.4,3996.4,Cash,Returned,04-02-2025
@@ -4999,3 +4999,4 @@ order_id,order_date,customer_id,customer_segment,country,city,product_category,p
 4998,02-08-2022,C1102,Home Office,USA,Austin,Fashion,T-Shirt,1,1289,150,128.9,1267.9,Credit Card,Returned,02-08-2022
 4999,01-11-2024,C2563,Home Office,UK,London,Home Appliances,Microwave,5,2712,0,1356,14916,Credit Card,Completed,01-11-2024
 5000,27-05-2025,C9517,Corporate,USA,San Francisco,Fashion,Jeans,4,781,100,312.4,3336.4,Net Banking,Cancelled,27-05-2025
+5001,14-01-2026,C10000,Home,USA,New York,Appliances,Fan,4,500,100,431.4,3333.9,UPI,Cancelled,14-01-2026,Life
