@@ -5001,3 +5001,5 @@ order_id,order_date,customer_id,customer_segment,country,city,product_category,p
 5000,27-05-2025,C9517,Corporate,USA,San Francisco,Fashion,Jeans,4,781,100,312.4,3336.4,Net Banking,Cancelled,27-05-2025
 5001,14-01-2026,C10000,Home,USA,New York,Appliances,Fan,4,500,100,431.4,3333.9,UPI,Cancelled,14-01-2026,Life
 5002,15-01-2026,C10000,Home,USA,New York,Appliances,Fan,4,500,100,431.4,3333.9,UPI,Cancelled,15-01-2026,Life
+5003,16-01-2026,C10000,Home,USA,New York,Appliances,Fan,4,500,100,431.4,3333.9,UPI,Cancelled,15-01-2026,Life
+
